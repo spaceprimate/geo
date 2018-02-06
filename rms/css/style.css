@@ -232,6 +232,11 @@ form fieldset legend{
     margin-left: -13px;
 }
 
+form .form-group.pull-left{
+    margin-right: 15px;
+}
+
+.clearboth{clear:both; min-height: 1px;}
 
 /*
  * HOMEPAGE
