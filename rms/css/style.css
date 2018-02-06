@@ -219,6 +219,19 @@ select.form-control {
     color: #a94442;
 }
 
+form fieldset{
+    padding-left: 12px;
+    margin-bottom: 12px;
+    border-bottom: 1px solid #e5e5e5;
+    border-left: 1px solid #e5e5e5;
+}
+form fieldset legend{
+    font-size: 17px;
+    margin-bottom: 8px;
+    border-left: 1px solid #fff;
+    margin-left: -13px;
+}
+
 
 /*
  * HOMEPAGE
